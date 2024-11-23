@@ -1,0 +1,15 @@
+body {
+    text-align: center; /* Centers the heading */
+}
+
+ul {
+    list-style: none; /* Removes bullet points */
+    padding: 10px;
+    background-color: lightgray; /* Sets the background */
+    border: 1px solid black; /* Adds a border */
+}
+
+li {
+    font-weight: bold; /* Makes items bold */
+    color: green; /* Makes items green */
+}
